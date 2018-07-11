@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## there are basically 2 fucnctions for caching the matrix inverse using lexical scoping
+## the first one is cache the proper matrix inverse and the second function will actually computes the inverse!
 
 ## this function will catch the matrix
 
